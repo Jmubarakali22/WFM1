@@ -14,7 +14,7 @@ export default {
     index_title: 'Piattaforma di gestione del magazzino',
     webtitle: 'GreaterWMS--Sistema di gestione del magazzino open source',
     home: 'prima pagina',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'Homepage GreaterWMS',
     hide_menu: 'Chiudi menu',
     api: 'Documentazione API',

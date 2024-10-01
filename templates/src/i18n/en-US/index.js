@@ -14,7 +14,7 @@ export default {
     index_title: 'Open Source Inventory System',
     webtitle: 'GreaterWMS--Open Source Warehouse Management System',
     home: 'Home',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'GreaterWMS Home',
     hide_menu: 'Hide Menu',
     api: 'API DOCS',

@@ -14,8 +14,8 @@ export default {
     index_title: 'Piattaforma di gestione del magazzino',
     webtitle: 'GreaterWMS--Sistema di gestione del magazzino open source',
     home: 'prima pagina',
-    title: 'GreaterWMS',
-    title_tip: 'Homepage GreaterWMS',
+    title: 'QCWMS',
+    title_tip: 'Homepage QCWMS',
     hide_menu: 'Chiudi menu',
     api: 'Documentazione API',
     translate: 'Cambia lingua',
@@ -622,9 +622,9 @@ export default {
       notice3: 'Proprietà contenitore di scorta:'
     },
     equipment: {
-       notice1: 'Elenco di supporto per le apparecchiature',
-       notice2: "Tutte le marche di dispositivi e i sistemi supportati dall'APP sono elencati qui"
-     },
+      notice1: 'Elenco di supporto per le apparecchiature',
+      notice2: "Tutte le marche di dispositivi e i sistemi supportati dall'APP sono elencati qui"
+    },
     handcount: {
       notice1: 'Dettagli',
       notice2: 'Conteggio manuale',

@@ -100,16 +100,25 @@ CSRF_COOKIE_SAMESITE = None
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 # update
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#         'OPTIONS': {
+#             'timeout': 20,
+#         }
+#     }
+# }
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-        'OPTIONS': {
-            'timeout': 20,
-        }
+        'NAME': 'django',
+        'USER':'root',
+        'PASSWORD':'',
+        'HOST':'localhost',
+        'PORT':3306,
     }
 }
-
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Password validation

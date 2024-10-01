@@ -1,6 +1,6 @@
 <div align="center">
   <img src="static/img/logo.png" alt="GreaterWMS logo" width="200" height="auto" />
-  <h1>GreaterWMS</h1>
+  <h1>Qcodes WMS</h1>
   <p>完全开源的仓库管理系统</p>
 
 <!-- Badges -->

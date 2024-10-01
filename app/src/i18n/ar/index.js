@@ -14,7 +14,7 @@ export default {
     index_title: 'منصة إدارة المستودعات',
     webtitle: 'GreaterWMS - نظام إدارة المستودعات مفتوح المصدر',
     home: 'الصفحة الأمامية',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'الصفحة الرئيسية لـ GreaterWMS ',
     hide_menu: 'تصغير القائمة',
     api: 'وثائق API',

@@ -14,7 +14,7 @@ export default {
     index_title: '倉庫管理プラットフォーム',
     webtitle: 'GreaterWMS--オープンソース倉庫管理システム',
     home: 'ホーム',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'GreaterWMSホームページ',
     hide_menu: 'メニューを折りたたむ',
     api: 'APIドキュメント',
@@ -620,9 +620,9 @@ export default {
       notice3: '在庫場所属性:'
     },
     equipment: {
-       notice1: '対応デバイス一覧',
-       notice2: 'APP でサポートされているすべてのデバイス ブランドとシステムがここにリストされています'
-     },
+      notice1: '対応デバイス一覧',
+      notice2: 'APP でサポートされているすべてのデバイス ブランドとシステムがここにリストされています'
+    },
     handcount: {
       notice1: '詳細',
       notice2: '手動インベントリ',

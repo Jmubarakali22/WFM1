@@ -229,7 +229,7 @@ module.exports = function (/* ctx */) {
         // https://www.electron.build/configuration/configuration
 
         appId: 'com.electron.greaterwms',
-        productName: 'GreaterWMS',
+        productName: 'QCWMS',
         copyright: '2022SR0153577',
         publish: [
           {
@@ -264,7 +264,7 @@ module.exports = function (/* ctx */) {
           allowToChangeInstallationDirectory: true,
           createDesktopShortcut: true,
           createStartMenuShortcut: true,
-          shortcutName: 'GreaterWMS',
+          shortcutName: 'QCWMS',
           runAfterFinish: true
         },
         compression: 'maximum'

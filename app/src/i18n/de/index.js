@@ -14,7 +14,7 @@ export default {
     index_title: 'Plattform für das Warehouse Management',
     webtitle: 'GreaterWMS--Open Source Lagerverwaltungs System',
     home: 'Home Page',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'GreaterWMSHome Page',
     hide_menu: 'Menü Zwischenstopp',
     api: 'APIDatei',

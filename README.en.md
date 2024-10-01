@@ -1,9 +1,9 @@
 <div align="center">
   <img src="static/img/logo.png" alt="GreaterWMS logo" width="200" height="auto" />
-  <h1>GreaterWMS</h1>
   <p>Open Source Inventory Management System </p>
 
 <!-- Badges -->
+  <h1>QcodesWMS</h1>
 ![License: APLv2](https://img.shields.io/github/license/GreaterWMS/GreaterWMS)
 ![Release Version (latest Version)](https://img.shields.io/github/v/release/GreaterWMS/GreaterWMS?color=orange&include_prereleases)
 ![QR Code Support](https://img.shields.io/badge/QR--Code-Support-orange.svg)

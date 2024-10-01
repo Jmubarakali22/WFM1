@@ -23,7 +23,7 @@ class ScannerBinsetTagView(viewsets.ModelViewSet):
         retrieve:
             Response a data list（get）
 
-            http://127.0.0.1:8008/binset/scannerbintag/3d89ad23d185d5f206d860745c5c4121/
+            /binset/scannerbintag/3d89ad23d185d5f206d860745c5c4121/
     """
     pagination_class = MyPageNumberPagination
     filter_backends = [DjangoFilterBackend, OrderingFilter, ]

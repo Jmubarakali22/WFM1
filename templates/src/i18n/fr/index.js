@@ -14,7 +14,7 @@ export default {
     index_title: "Plateforme de gestion d'entrepôt'",
     webtitle: "GreaterWMS - Système de gestion d'entrepôt Open Source",
     home: 'page de garde',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'GreaterWMSpage de garde',
     hide_menu: 'Fermer le menu',
     api: 'Documentation API',

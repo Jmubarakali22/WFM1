@@ -14,7 +14,7 @@ export default {
     index_title: 'Платформа управления складами',
     webtitle: 'GreaterWMS--Система управления складом с открытым исходным кодом',
     home: 'титульная страница',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'GreaterWMSтитульная страница',
     hide_menu: 'Свернуть меню',
     api: 'APIДокументация',

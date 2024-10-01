@@ -14,8 +14,8 @@ export default {
     index_title: 'Plataforma de gestión de almacenes',
     webtitle: 'GreaterWMS: sistema de gestión de almacenes de código abierto',
     home: 'página delantera',
-    title: 'GreaterWMS',
-    title_tip: 'Página de inicio de GreaterWMS',
+    title: 'QCWMS',
+    title_tip: 'Página de inicio de QCWMS',
     hide_menu: 'Cerrar menú',
     api: 'Documentación API',
     translate: 'cambiar idioma',
@@ -622,9 +622,9 @@ export default {
       notice3: 'Propiedad del contenedor de existencias:'
     },
     equipment: {
-       notice1: 'Lista de soporte de equipo',
-       notice2: 'Todas las marcas de dispositivos y sistemas compatibles con la aplicación se enumeran aquí'
-     },
+      notice1: 'Lista de soporte de equipo',
+      notice2: 'Todas las marcas de dispositivos y sistemas compatibles con la aplicación se enumeran aquí'
+    },
     handcount: {
       notice1: 'Detalles',
       notice2: 'Recuento manual',

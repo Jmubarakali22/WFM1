@@ -14,7 +14,7 @@ export default {
     index_title: 'Plataforma de Gerenciamento de Armazém',
     webtitle: 'GreaterWMS -- Open Source Warehouse Management System',
     home: 'primeira página',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'Página inicial do GreaterWMS',
     hide_menu: 'Fechar menu',
     api: 'Documentação da API',

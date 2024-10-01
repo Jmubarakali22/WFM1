@@ -14,7 +14,7 @@ export default {
     index_title: 'Plataforma de gestión de almacenes',
     webtitle: 'GreaterWMS: sistema de gestión de almacenes de código abierto',
     home: 'página delantera',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'Página de inicio de GreaterWMS',
     hide_menu: 'Cerrar menú',
     api: 'Documentación API',

@@ -127,7 +127,7 @@ def register(request, *args, **kwargs):
                             ret['data'] = data
                             from company.models import ListModel as company
                             company.objects.create(openid=transaction_code,
-                                                   company_name='GreaterWMS',
+                                    company_name='QCWMS',
                                                    company_city=str(random.choice(randomcity)),
                                                    company_address='People’s Square # 666 Room 1F',
                                                    company_contact=str(randomPhone()),

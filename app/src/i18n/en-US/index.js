@@ -14,8 +14,8 @@ export default {
     index_title: 'Open Source Inventory System',
     webtitle: 'GreaterWMS--Open Source Warehouse Management System',
     home: 'Home',
-    title: 'GreaterWMS',
-    title_tip: 'GreaterWMS Home',
+    title: 'QCWMS',
+    title_tip: 'QCWMS Home',
     hide_menu: 'Hide Menu',
     api: 'API DOCS',
     translate: 'Choose Language',
@@ -636,9 +636,9 @@ export default {
       notice8: 'Here shows the details of the goods that need to be counted'
     },
     version: {
-       new: 'New Version Update',
-       detail: 'Please go to the GreaterWMS official website, https://www.56yhz.com/, to download the latest version of the APP'
-     },
+      new: 'New Version Update',
+      detail: 'Please go to the QCWMS official website, https://www.56yhz.com/, to download the latest version of the APP'
+    },
     400: 'Bad request (400)',
     401: 'Authorization not obtained (401)',
     403: 'Access denied (403)',

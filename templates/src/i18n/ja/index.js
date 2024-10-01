@@ -14,7 +14,7 @@ export default {
     index_title: '倉庫管理プラットフォーム',
     webtitle: 'GreaterWMS--オープンソース倉庫管理システム',
     home: 'ホーム',
-    title: 'GreaterWMS',
+    title: 'QCWMS',
     title_tip: 'GreaterWMSホームページ',
     hide_menu: 'メニューを折りたたむ',
     api: 'APIドキュメント',
